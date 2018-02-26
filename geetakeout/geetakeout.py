@@ -126,7 +126,7 @@ def main(args=None):
     parser = argparse.ArgumentParser(description='Command line tool to copy Google Earth Engine Codes and assets from one account to another\n'
                                                  '------------------------------------------------------------'
                                                  '--------------\n'
-                                                 'https://github.com/samapriya/geetakeout')
+                                                 'https://github.com/samapriya/gee-takeout')
     subparsers = parser.add_subparsers()
     parser_EE00 = subparsers.add_parser(' ', help='.\n')
     parser_EE01 = subparsers.add_parser(' ', help='---------EE Setup and Housekeeping---------')
