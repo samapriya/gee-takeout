@@ -1,5 +1,6 @@
 # Google Takeout and Transfer: Tools and Guide for Code and Asset Transfer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1185158.svg)](https://doi.org/10.5281/zenodo.1185158)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/samapriya)
 
 Command Line Interface Allows you to copy all codes and assets from one Google account to another
