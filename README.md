@@ -34,10 +34,14 @@ The housekeeping and credential setup is optional since most of you have probabl
 
 &gt; **Anatomy of the Process: How to transfer step by step**
 
-Getting first things out of the way is to understand the three sections of this tool. To make life and this process simpler I designed the tool to have a flow so you can run these tools one after the other. The _EE Setup and Housekeeping_ sections are optional&nbsp;, since I will generally updated the selenium driver for mozilla and it assumes you have authenticated your earthengine CLI&nbsp;. The tool might show an error if you have not authenticated using
+Getting first things out of the way is to understand the three sections of this tool. To make life and this process simpler I designed the tool to have a flow so you can run these tools one after the other. The _EE Setup and Housekeeping_ sections are optional&nbsp;, since I will generally updated the selenium driver for mozilla and it assumes you have authenticated your earthengine CLI&nbsp;. The tool might show an error if you have not authenticated using earthengine authenticate
     
     
-    earthengine authenticate
+    If you have installed the tool run
+    geetakeout -h
+    
+    If you have migrated into the folder
+    python geetakeout.py -h
 
 ![][7]
 
