@@ -1,9 +1,11 @@
-google-api-python-client >= 1.5.4
+google-api-python-client>= 1.5.4
 clipboard>=0.0.4
 earthengine_api>=0.1.134
+hurry.filesize>=0.9
 selenium>=3.9.0
 requests>=2.18.4
 beautifulsoup4>=4.6.0
 python_dateutil>=2.6.1
 pySmartDL>=1.2.5
 lxml>=4.1.1
+pathlib>=1.0.1
